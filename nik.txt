@@ -1,1 +1,2 @@
 nik1, nik2, nik3
+putnik
