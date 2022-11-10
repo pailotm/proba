@@ -1,4 +1,4 @@
 nik1, nik2, nik3
 putnik
 nik5
-putnik2
+nik7
