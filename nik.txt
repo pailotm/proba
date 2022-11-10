@@ -1,5 +1,6 @@
 nik1, nik2, nik3
 putnik
-5
+
+
 nik7
 nik8
