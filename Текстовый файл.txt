@@ -1,0 +1,33 @@
+ (1, Junior Python developer),
+(2, Middle Python developer),
+(3, Senior Python developer),
+(4, Junior Java developer),
+(5, Middle Java developer),
+(6, Senior Java developer),
+(7, Junior JavaScript developer),
+(8, Middle JavaScript developer),
+(9, Senior JavaScript developer),
+(10, Junior Manual QA engineer),
+(11, Middle Manual QA engineer),
+(12, Senior Manual QA engineer),
+(13, Project Manager),
+(14, Designer),
+(15, HR),
+(16, CEO),
+(17, Sales manager),
+(18, Junior Automation QA engineer),
+(19, Middle Automation QA engineer),
+(20, Senior Automation QA engineer),
+(21, Intern Manual QA engineer),
+(22, Intern Automation QA engineer),
+(23, Intern QA engineer);
+
+(7, 2), (20, 4), (3, 9), (5, 13), (23, 4), (11, 2),
+(10, 9), (22, 13), (21, 3), (34, 4), (6, 7);
+
+(7, 2), (20, 4), (3, 9), (5, 13), (23, 4), (11, 2),(10, 9), (22, 13), (21, 3), (34, 4),
+	(6, 7), (27, 4), (17, 1), (35, 7), (9, 7), (4, 4), (37, 9), (42, 13), (25, 4), (13, 2),
+	(54, 10), (33, 7), (60, 7), (69, 4), (68, 9), (67, 13), (66, 4), (65, 2), (64, 10), (63, 13),
+	(62, 4), (53, 7), (1, 4), (45, 9), (40, 13), (43, 4), (31, 2), (52, 10), (15, 13), (26, 4), (16, 1);
+
+
