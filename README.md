@@ -13,3 +13,4 @@ _prob_
 ---
 `p`
 `pp`
+`console.log`
