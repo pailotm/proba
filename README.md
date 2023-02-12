@@ -14,3 +14,10 @@ _prob_
 `p`
 `pp`
 `console.log`
+
+```python
+if x > 0:
+	print (x)
+else:
+	print ('Hello, World!')
+```
