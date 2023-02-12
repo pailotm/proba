@@ -19,5 +19,5 @@ _prob_
 if x > 0:
 	print (x)
 else:
-	print ('Hello, World!')
+	print ('Питон хароош! :)')
 ```
